@@ -12,7 +12,7 @@
 
 
 ### Glad to see you here!  
-I am a developer and a manager, yes we can do both. I'm responsible for a team that defines, builds, tools and supports development stacks for a large enterprise. I have always been passionate about computer development, I also like to build bigger things in a group than I could do alone.
+I am a developer and a manager, yes we can do both. I'm responsible for a team that defines, builds, tools and supports development stacks for a large enterprise. Our main stacks are: Java, Python, Typescript, .Net and IAC (Infrastructure As Code). We are a support center for all project teams and also a shared service center. I have always been passionate about computer development, I also like to build bigger things in a group than I could do alone.
 
 I develop in Java, Python and Javascript, I am also very interested in the DevSecOps activity, in the SRE and above all I like to transmit my knowledge in securing IT developments.  
   

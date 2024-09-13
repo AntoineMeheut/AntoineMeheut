@@ -23,7 +23,7 @@ I develop in Java, Python and Javascript, I am also very interested in Security,
 ## Rapidfire  
 <table><tr><td valign="top" width="100%">
 
-- 🔭 I’m currently working on [ecoCode](https://github.com/green-code-initiative/ecoCode)  
+- 🔭 I’m currently working on [Banque de France](https://github.com/Banque-de-France) and [ecoCode](https://github.com/green-code-initiative/ecoCode)
   
 
 - 🌱 I’m currently learning network security infrastructure standards
@@ -32,7 +32,7 @@ I develop in Java, Python and Javascript, I am also very interested in Security,
 - ❓ Ask me about anything related to security in IT developments  
   
 
-- ⚡ Fun Fact: I really like art in all its forms and I'm addicted to skateboarding. I love installing pro tech on the cheapest servers possible.
+- ⚡ Fun Fact: I really like art in all its forms and I'm addicted to surf and skateboarding. I love installing pro tech on the cheapest servers possible.
 
 </td></tr></table>  
 

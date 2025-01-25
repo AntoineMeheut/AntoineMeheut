@@ -12,9 +12,9 @@
 
 
 ### Glad to see you here!  
-I am a developer, application security expert and manager. I have just joined the security teams of a large French institution. I have always been passionate about computer development, I also like to build bigger things in a group than I could do alone.
+I am a developer, application security expert and manager. I work in the operational security teams of a large French institution. Always passionate about IT development, I also like to build bigger things in a group than I could do alone.
 
-I develop in Java, Python and Javascript, I am also very interested in Security, DevSecOps, SRE and above all I like to transmit my knowledge in securing IT developments.
+I develop in Java, Python and Javascript, I am also very interested in Security, cryptography, DevSecOps, SRE and I especially like to share my knowledge in securing IT developments.
   
 
 <br/>  

@@ -12,7 +12,7 @@
 
 
 ### Glad to see you here!  
-I am a developer, application security expert and manager. I work in the operational security teams of a large French institution. Always passionate about IT development, I also like to build bigger things in a group than I could do alone.
+I am a developer, application security expert and manager. I work in the operational security teams of a large French institution. Always passionate about IT development, I also like to build bigger things in a group than I could do alone. I am authorized for OIV (operator of vital importance).
 
 I develop in Java, Python and Javascript, I am also very interested in security, cryptography, DevSecOps, SRE and I especially like to share my knowledge in securing IT developments.
   

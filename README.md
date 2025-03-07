@@ -75,6 +75,7 @@ hobbies: ["Skateboard", "Beach and sun", "Surf", "Guitar"]
 <br/>
 
 # Today's developer quotes
+
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=swift&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <br/>

@@ -74,12 +74,6 @@ hobbies: ["Skateboard", "Beach and sun", "Surf", "Guitar"]
 
 <br/>
 
-# Today's developer quotes
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=swift&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
-
-<br/>
-
 # Languages and Tools
 <div align="center">  
 <a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="25" /></a>  

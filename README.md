@@ -121,5 +121,5 @@ hobbies: ["Skateboard", "Beach and sun", "Surf", "Guitar"]
 <br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Thanks%20for%20stopping%20by!"/>
 </p>

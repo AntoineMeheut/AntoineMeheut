@@ -1,5 +1,8 @@
 <p align="center">
     <img src="https://socialify.git.ci/AntoineMeheut/AntoineMeheut/image?custom_description=Welcome+to+my+personal+page+%21&description=1&language=1&name=1&pattern=Circuit+Board&theme=Dark" alt="AntoineMeheut" width="700" height="300" />
+</p>
+
+<p align="center">
     <a href="https://github.com/AntoineMeheut" target="_blank">
         <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
     </a>

@@ -1,45 +1,82 @@
-## Hey 👋, I'm Antoine MEHEUT!  
-  
+<p align="center">
+    <img src="https://socialify.git.ci/AntoineMeheut/AntoineMeheut/image?custom_description=Welcome+to+my+personal+page+%21&description=1&language=1&name=1&pattern=Circuit+Board&theme=Dark" alt="AntoineMeheut" width="700" height="300" />
+    <a href="https://github.com/AntoineMeheut" target="_blank">
+        <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+    </a>
+    <a href="https://www.linkedin.com/in/antoine-méheut-38610929b/" target="_blank">
+        <img src=https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff alt=linkedin style="margin-bottom: 8px;" />
+    </a>
+    <a href="https://gitlab.com/AntoineMeheut" target="_blank">
+        <img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
+    </a>
+</p>
 
-<a href="https://github.com/AntoineMeheut" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://gitlab.com/AntoineMeheut" target="_blank">
-<img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
-</a>  
-  
+<p align="center">
+    <img src=https://komarev.com/ghpvc/?username=AntoineMeheut&&style=flat-square alt=views style="margin-bottom: 8px;" />
+</p>
 
+<br/>
 
-
-### Glad to see you here!  
+# Glad to see you here!
 I am a developer, application security expert and manager. I have just joined the security teams of a large French institution. I have always been passionate about computer development, I also like to build bigger things in a group than I could do alone.
 
 I develop in Java, Python and Javascript, I am also very interested in Security, DevSecOps, SRE and above all I like to transmit my knowledge in securing IT developments.
-  
 
-<br/>  
+<br/>
 
-
-## Rapidfire  
+# Rapidfire
 <table><tr><td valign="top" width="100%">
 
-- 🔭 I’m currently working on [Banque de France](https://github.com/Banque-de-France) and [ecoCode](https://github.com/green-code-initiative/ecoCode)
-  
+- 🔭 I’m currently working on [Banque de France](https://github.com/Banque-de-France) and [ecoCode](https://github.com/green-code-initiative/ecoCode).
 
-- 🌱 I’m currently learning network security infrastructure standards
-  
+- 🌱 I’m currently learning network security infrastructure standards.
 
-- ❓ Ask me about anything related to security in IT developments  
-  
+- ❓ Ask me about anything related to security in IT developments.
 
-- ⚡ Fun Fact: I really like art in all its forms and I'm addicted to surf and skateboarding. I love installing pro tech on the cheapest servers possible.
+- ⚡ Fun Fact: I really like art in all its forms and I'm addicted to surf and skateboarding.
 
-</td></tr></table>  
+</td></tr></table>
 
-<br/>  
+<br/>
 
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=guilyx&theme=onedark&column=-1" />
+</p>
 
-## Languages and Tools  
+<br/>
+
+# My resume
+
+```yaml
+name: Antoine Meheut
+located_in: Paris, FRA
+from: Quite a few places in the world
+
+job: Senior engineer in IT development & security
+education: SUPINFO Engineer
+company: Bank of France
+
+past experiences:
+  - ["Head of architecture and security team", "Bank of France", "Paris", "2024-Today"]
+  - ["Head of the development expertise team", "Bank of France", "Paris", "2019-2024"]
+  - ["Lead developer", "PMU", "Paris", "2010-2019"]
+  - ["Lead developer", "Altran", "Paris", "2008-2010"]
+  - ["Developer, project manager", "Renault", "Paris", "2000-2008"]
+  - ["Developer, project manager", "BNP PARIBAS", "Paris", "1994-2000"]
+
+fields_of_interests: ["Secure programming", "Clour", "SRE", "Integration", "Linux"]
+technical_background: ["Java", "Python", "Javascript"]
+hobbies: ["Skateboard", "Beach and sun", "Surf", "Guitar"]
+```
+
+<br/>
+
+# Today's developer quotes
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=swift&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
+
+<br/>
+
+# Languages and Tools
 <div align="center">  
 <a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="25" /></a>  
 <a href="https://www.scala-lang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/scala-original-wordmark.svg" alt="Scala" height="25" /></a>  
@@ -70,10 +107,9 @@ I develop in Java, Python and Javascript, I am also very interested in Security,
 <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="25" /></a>  
 </div>  
 
-<br/>  
+<br/>
 
-
-## Github Stats  
+# Github Stats  
 <table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=AntoineMeheut&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
@@ -82,21 +118,10 @@ I develop in Java, Python and Javascript, I am also very interested in Security,
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntoineMeheut&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
-</td></tr></table>  
+</td></tr></table>
 
-<br/>  
+<br/>
 
-  
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=AntoineMeheut&&style=flat-square)  
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
